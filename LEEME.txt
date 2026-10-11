@@ -1,0 +1,4 @@
+Descomprime todo y abre index.html.
+Al tocar Abrir nuestro homenaje se activa la música y se solicita pantalla completa.
+Puedes salir con el botón de pantalla completa, Esc o Atrás. Algunos navegadores móviles no admiten pantalla completa.
+Para compartir: https://flores-para-ti-dia-mujer.ramirezsejasrafael.chatgpt.site
